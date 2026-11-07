@@ -120,4 +120,4 @@ Jumlah pengunjung 5 toko cabang (data simulasi). Seattle Store tertinggi (sekita
 
 ## Tim
 
-Kelompok 10, Kelas D. _Isi nama anggota dan peran._
+Kelompok 10, Kelas D. Lenggo, Raffly dan Shakila
