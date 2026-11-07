@@ -1,0 +1,499 @@
+{
+  "data": [
+    {
+      "id": "3000335",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "8557",
+      "username": "user_8630",
+      "text": "after 1 week, I love my Mountain-500 Silver, 42, quality is actually crazy good",
+      "lang": "en",
+      "product_name": "Mountain-500 Silver, 42",
+      "public_metrics": {
+        "retweet_count": 14,
+        "reply_count": 17,
+        "like_count": 88,
+        "quote_count": 20
+      }
+    },
+    {
+      "id": "3000336",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "8947",
+      "username": "user_7686",
+      "text": "I think just got it and no regrets buying Adjustable Race, worth every penny",
+      "lang": "en",
+      "product_name": "Adjustable Race",
+      "public_metrics": {
+        "retweet_count": 13,
+        "reply_count": 16,
+        "like_count": 60,
+        "quote_count": 13
+      }
+    },
+    {
+      "id": "3000337",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "8968",
+      "username": "user_7122",
+      "text": "LL Mountain Frame - Silver, 40 feels premium and super solid \ud83d\udd25",
+      "lang": "en",
+      "product_name": "LL Mountain Frame - Silver, 40",
+      "public_metrics": {
+        "retweet_count": 33,
+        "reply_count": 13,
+        "like_count": 179,
+        "quote_count": 11
+      }
+    },
+    {
+      "id": "3000338",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "8995",
+      "username": "user_8531",
+      "text": "after using it for days, HL Touring Frame - Yellow, 46 exceeded my expectations by far \ud83d\udc4d",
+      "lang": "en",
+      "product_name": "HL Touring Frame - Yellow, 46",
+      "public_metrics": {
+        "retweet_count": 25,
+        "reply_count": 2,
+        "like_count": 151,
+        "quote_count": 18
+      }
+    },
+    {
+      "id": "3000339",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "7890",
+      "username": "user_8356",
+      "text": "ngl just got it and I love my Flat Washer 4, quality is actually crazy good \ud83e\udd2f",
+      "lang": "en",
+      "product_name": "Flat Washer 4",
+      "public_metrics": {
+        "retweet_count": 20,
+        "reply_count": 29,
+        "like_count": 100,
+        "quote_count": 10
+      }
+    },
+    {
+      "id": "3000340",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "7927",
+      "username": "user_7556",
+      "text": "tbh after using it for days, Classic Vest, M is insane, way better than expected \ud83e\udd2f",
+      "lang": "en",
+      "product_name": "Classic Vest, M",
+      "public_metrics": {
+        "retweet_count": 49,
+        "reply_count": 18,
+        "like_count": 27,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "3000341",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "7336",
+      "username": "user_7920",
+      "text": "honestly External Lock Washer 8 feels premium and super solid \ud83d\udc80",
+      "lang": "en",
+      "product_name": "External Lock Washer 8",
+      "public_metrics": {
+        "retweet_count": 22,
+        "reply_count": 30,
+        "like_count": 197,
+        "quote_count": 6
+      }
+    },
+    {
+      "id": "3000342",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "7631",
+      "username": "user_7948",
+      "text": "after using it for days, HL Touring Frame - Yellow, 46 is insane, way better than expected \ud83e\udd2f",
+      "lang": "en",
+      "product_name": "HL Touring Frame - Yellow, 46",
+      "public_metrics": {
+        "retweet_count": 43,
+        "reply_count": 9,
+        "like_count": 180,
+        "quote_count": 19
+      }
+    },
+    {
+      "id": "3000343",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "7440",
+      "username": "user_8711",
+      "text": "after using it for days, I love my Flat Washer 4, quality is actually crazy good \ud83d\ude24",
+      "lang": "en",
+      "product_name": "Flat Washer 4",
+      "public_metrics": {
+        "retweet_count": 25,
+        "reply_count": 16,
+        "like_count": 12,
+        "quote_count": 9
+      }
+    },
+    {
+      "id": "3000344",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "8679",
+      "username": "user_7356",
+      "text": "honestly after using it for days, no regrets buying Headlights - Dual-Beam, worth every penny",
+      "lang": "en",
+      "product_name": "Headlights - Dual-Beam",
+      "public_metrics": {
+        "retweet_count": 29,
+        "reply_count": 3,
+        "like_count": 35,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "3000345",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "7126",
+      "username": "user_8700",
+      "text": "tbh after using it for days, not happy with Adjustable Race, expected better \ud83e\udd2f",
+      "lang": "en",
+      "product_name": "Adjustable Race",
+      "public_metrics": {
+        "retweet_count": 25,
+        "reply_count": 11,
+        "like_count": 175,
+        "quote_count": 20
+      }
+    },
+    {
+      "id": "3000346",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "8192",
+      "username": "user_8200",
+      "text": "Thin-Jam Hex Nut 16 is insane, way better than expected \ud83d\udd25",
+      "lang": "en",
+      "product_name": "Thin-Jam Hex Nut 16",
+      "public_metrics": {
+        "retweet_count": 41,
+        "reply_count": 14,
+        "like_count": 32,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "3000347",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "7250",
+      "username": "user_7087",
+      "text": "tbh after 1 week, Classic Vest, M is insane, way better than expected \ud83e\udd2f",
+      "lang": "en",
+      "product_name": "Classic Vest, M",
+      "public_metrics": {
+        "retweet_count": 46,
+        "reply_count": 12,
+        "like_count": 127,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "3000348",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "8399",
+      "username": "user_7873",
+      "text": "tbh after using it for days, Racing Socks, M feels premium and super solid \ud83d\ude24",
+      "lang": "en",
+      "product_name": "Racing Socks, M",
+      "public_metrics": {
+        "retweet_count": 17,
+        "reply_count": 14,
+        "like_count": 38,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "3000349",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "8325",
+      "username": "user_7604",
+      "text": "imo after 1 week, using Road-550-W Yellow, 38 right now, still evaluating",
+      "lang": "en",
+      "product_name": "Road-550-W Yellow, 38",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 8,
+        "like_count": 98,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "3000350",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "7408",
+      "username": "user_8316",
+      "text": "I think got Short-Sleeve Classic Jersey, S, will test it more \ud83d\ude0d",
+      "lang": "en",
+      "product_name": "Short-Sleeve Classic Jersey, S",
+      "public_metrics": {
+        "retweet_count": 50,
+        "reply_count": 22,
+        "like_count": 91,
+        "quote_count": 15
+      }
+    },
+    {
+      "id": "3000351",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "8600",
+      "username": "user_7992",
+      "text": "imo just got it and Mountain-500 Silver, 42 exceeded my expectations by far \ud83d\ude0d",
+      "lang": "en",
+      "product_name": "Mountain-500 Silver, 42",
+      "public_metrics": {
+        "retweet_count": 17,
+        "reply_count": 5,
+        "like_count": 6,
+        "quote_count": 10
+      }
+    },
+    {
+      "id": "3000352",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "7060",
+      "username": "user_8834",
+      "text": "after 1 week, Road-550-W Yellow, 38 broke too fast tbh \ud83d\udc80",
+      "lang": "en",
+      "product_name": "Road-550-W Yellow, 38",
+      "public_metrics": {
+        "retweet_count": 22,
+        "reply_count": 24,
+        "like_count": 149,
+        "quote_count": 7
+      }
+    },
+    {
+      "id": "3000353",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "7205",
+      "username": "user_7507",
+      "text": "ngl got LL Road Frame - Black, 58, will test it more \ud83e\udd2f",
+      "lang": "en",
+      "product_name": "LL Road Frame - Black, 58",
+      "public_metrics": {
+        "retweet_count": 14,
+        "reply_count": 18,
+        "like_count": 99,
+        "quote_count": 11
+      }
+    },
+    {
+      "id": "3000354",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "7360",
+      "username": "user_7484",
+      "text": "I think just got it and LL Road Frame - Black, 58 is average, nothing special yet \ud83d\udc80",
+      "lang": "en",
+      "product_name": "LL Road Frame - Black, 58",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 22,
+        "like_count": 179,
+        "quote_count": 11
+      }
+    },
+    {
+      "id": "3000355",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "8154",
+      "username": "user_7291",
+      "text": "honestly just got it and got Road-750 Black, 44, will test it more \ud83d\udd25",
+      "lang": "en",
+      "product_name": "Road-750 Black, 44",
+      "public_metrics": {
+        "retweet_count": 31,
+        "reply_count": 1,
+        "like_count": 23,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "3000356",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "8232",
+      "username": "user_7448",
+      "text": "honestly Road-550-W Yellow, 38 exceeded my expectations by far \ud83d\ude24",
+      "lang": "en",
+      "product_name": "Road-550-W Yellow, 38",
+      "public_metrics": {
+        "retweet_count": 39,
+        "reply_count": 6,
+        "like_count": 33,
+        "quote_count": 10
+      }
+    },
+    {
+      "id": "3000357",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "8881",
+      "username": "user_8643",
+      "text": "after using it for days, LL Road Frame - Black, 58 is insane, way better than expected \ud83d\udc80",
+      "lang": "en",
+      "product_name": "LL Road Frame - Black, 58",
+      "public_metrics": {
+        "retweet_count": 45,
+        "reply_count": 29,
+        "like_count": 36,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "3000358",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "8762",
+      "username": "user_7747",
+      "text": "I think after 1 week, Touring-1000 Yellow, 46 feels premium and super solid \ud83d\udc80",
+      "lang": "en",
+      "product_name": "Touring-1000 Yellow, 46",
+      "public_metrics": {
+        "retweet_count": 6,
+        "reply_count": 10,
+        "like_count": 77,
+        "quote_count": 10
+      }
+    },
+    {
+      "id": "3000359",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "8998",
+      "username": "user_7322",
+      "text": "I think after 1 week, regret buying Metal Sheet 2, not worth it \ud83d\udc4d",
+      "lang": "en",
+      "product_name": "Metal Sheet 2",
+      "public_metrics": {
+        "retweet_count": 20,
+        "reply_count": 5,
+        "like_count": 181,
+        "quote_count": 17
+      }
+    },
+    {
+      "id": "3000360",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "7457",
+      "username": "user_8363",
+      "text": "honestly just got it and got Women's Mountain Shorts, L, will test it more \ud83d\udc4d",
+      "lang": "en",
+      "product_name": "Women's Mountain Shorts, L",
+      "public_metrics": {
+        "retweet_count": 44,
+        "reply_count": 9,
+        "like_count": 32,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "3000361",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "8943",
+      "username": "user_8437",
+      "text": "imo using Adjustable Race right now, still evaluating \ud83d\udd25",
+      "lang": "en",
+      "product_name": "Adjustable Race",
+      "public_metrics": {
+        "retweet_count": 38,
+        "reply_count": 10,
+        "like_count": 156,
+        "quote_count": 7
+      }
+    },
+    {
+      "id": "3000362",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "7213",
+      "username": "user_8918",
+      "text": "ngl got Road-750 Black, 44, will test it more \ud83d\udd25",
+      "lang": "en",
+      "product_name": "Road-750 Black, 44",
+      "public_metrics": {
+        "retweet_count": 22,
+        "reply_count": 10,
+        "like_count": 42,
+        "quote_count": 20
+      }
+    },
+    {
+      "id": "3000363",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "8682",
+      "username": "user_8451",
+      "text": "honestly Thin-Jam Hex Nut 16 broke too fast tbh \ud83d\ude24",
+      "lang": "en",
+      "product_name": "Thin-Jam Hex Nut 16",
+      "public_metrics": {
+        "retweet_count": 13,
+        "reply_count": 7,
+        "like_count": 177,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "3000364",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "7525",
+      "username": "user_8611",
+      "text": "after 1 week, Women's Mountain Shorts, L is insane, way better than expected \ud83d\ude0d",
+      "lang": "en",
+      "product_name": "Women's Mountain Shorts, L",
+      "public_metrics": {
+        "retweet_count": 46,
+        "reply_count": 13,
+        "like_count": 42,
+        "quote_count": 13
+      }
+    },
+    {
+      "id": "3000365",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "8805",
+      "username": "user_7775",
+      "text": "honestly LL Mountain Frame - Silver, 40 exceeded my expectations by far \ud83e\udd2f",
+      "lang": "en",
+      "product_name": "LL Mountain Frame - Silver, 40",
+      "public_metrics": {
+        "retweet_count": 30,
+        "reply_count": 25,
+        "like_count": 147,
+        "quote_count": 20
+      }
+    },
+    {
+      "id": "3000366",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "7333",
+      "username": "user_7924",
+      "text": "ngl Road-550-W Yellow, 38 is insane, way better than expected \ud83d\ude24",
+      "lang": "en",
+      "product_name": "Road-550-W Yellow, 38",
+      "public_metrics": {
+        "retweet_count": 16,
+        "reply_count": 30,
+        "like_count": 26,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "3000367",
+      "created_at": "2025-01-11T00:00:00Z",
+      "author_id": "7348",
+      "username": "user_8818",
+      "text": "I think I love my Classic Vest, M, quality is actually crazy good \ud83d\udc80",
+      "lang": "en",
+      "product_name": "Classic Vest, M",
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 10,
+        "like_count": 152,
+        "quote_count": 19
+      }
+    }
+  ]
+}
